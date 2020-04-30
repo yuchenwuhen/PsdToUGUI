@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 57f3bd6261d6928499a371c86fc8b054
+timeCreated: 1446274572
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_info_normal
+    21300002: label_subscription
+    21300004: button_info_yellow_normal
+    21300006: label_instant
+    21300008: button_info_green_normal
+    21300010: label_10pieces
+    21300012: label_desc
+    21300014: label_Title
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button_info_normal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 144
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: label_subscription
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 178
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_info_yellow_normal
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 178
+        width: 141
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: label_instant
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 196
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_info_green_normal
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 141
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: label_10pieces
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 62
+        width: 126
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: label_desc
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: label_Title
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 83
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
